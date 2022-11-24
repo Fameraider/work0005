@@ -1,13 +1,16 @@
 {
   "name": "work0005",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "เว็บตรงสมัครแทง ไฮโลไทย แทงขั้นต่ำ 10 บาท สมาชิกใหม่ฝาก 250 รับโบนัสฟรี 50 ไม่ต้องทำเทิร์น ไม่มีขั้นต่ำฝากถอน เล่นง่าย บริการด้วยระบบอัตโนมัติ แอดมินให้บริการตลอด 24 ชั่วโมง",
   "keywords": [
-    "syntax",
-    "theme"
+    "โฮโลไทย",
+    "โฮโลออนไลน์",
+    "สมัครแทงไฮโล",
+    "แทงไฮโลขั้นต่ำ 10 บาท",
+    "เว็บตรงไฮโล"
   ],
-  "repository": "https://github.com/atom/work0005",
+  "repository": "https://github.com/Fameraider/work0005",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
